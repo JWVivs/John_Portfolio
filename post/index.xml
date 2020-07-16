@@ -17,7 +17,8 @@
       <pubDate>Wed, 15 Jul 2020 10:58:08 -0400</pubDate>
       
       <guid>https://jwvivs.github.io/John_Portfolio/post/project-1/</guid>
-      <description>Link to GitHub Repository</description>
+      <description>I scraped menu data for over 300 restaurants from allmenus.com, and developed an app that is capable of displaying which restaurants are similar to one another. It features topic modeling in order to classify the restaurants into different topics based on the contents of their menu.
+More specifically, it features a Latent Dirichlet allocation (LDA) model that uses spectral initialization. I created a Euclidean distance matrix by performing k-means clustering on a matrix of the gamma values generated from LDA as a way of assessing how closely similar the restaurants were to one another.</description>
     </item>
     
     <item>
@@ -26,7 +27,27 @@
       <pubDate>Tue, 31 Mar 2020 11:00:59 -0400</pubDate>
       
       <guid>https://jwvivs.github.io/John_Portfolio/post/project-2/</guid>
-      <description>Link to GitHub Repository</description>
+      <description>For this project, I built a classifier to identify different dog species. This would serve as the model for a potential application that would allow the user to input an image of a dog, and receive the breed of the dog, as well as some interesting facts regarding the breed.
+The model was able to predict the breed of the dog with 86.6% accuracy. This was achieved through the use of a CNN which was trained on resnet34.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Time Series Forecasting on McDonald&#39;s Stock</title>
+      <link>https://jwvivs.github.io/John_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 09 Mar 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://jwvivs.github.io/John_Portfolio/post/project-3/</guid>
+      <description>I attempted to predict future stock prices for McDonald&amp;rsquo;s through time series forecasting. Five years worth of stock data was used from finance.yahoo.com. Following decomposition of the data through differencing and seasonality extraction, I created an ARIMA model from a subset of the data. I forecasted the subset of data, and plotted it against the actual values that were withheld to assess the model&amp;rsquo;s performance.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: 2019 NFL Draft Sentiment Analysis</title>
+      <link>https://jwvivs.github.io/John_Portfolio/post/project-4/</link>
+      <pubDate>Mon, 29 Apr 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jwvivs.github.io/John_Portfolio/post/project-4/</guid>
+      <description>I conducted sentiment analysis on tweets that I pulled from Twitter&amp;rsquo;s API leading up to the 2019 NFL Draft. This was intended to be a predictor tool that would allow the user to see which NFL prospect would be selected by a particular team leading up to the draft. If Twitter sentiment analysis could yield any success in predicting where a prospect may land, then it may pose as an enticing tool for team managers/owners to use in order to better prepare their draft board.</description>
     </item>
     
   </channel>
