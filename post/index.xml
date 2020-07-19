@@ -50,5 +50,14 @@ The model was able to predict the breed of the dog with 86.6% accuracy. This was
       <description>I conducted sentiment analysis on tweets that I pulled from Twitter&amp;rsquo;s API leading up to the 2019 NFL Draft. This was intended to be a predictor tool that would allow the user to see which NFL prospect would be selected by a particular team leading up to the draft. If Twitter sentiment analysis could yield any success in predicting where a prospect may land, then it may pose as an enticing tool for team managers/owners to use in order to better prepare their draft board.</description>
     </item>
     
+    <item>
+      <title>Project 4: 2019 NFL Draft Sentiment Analysis</title>
+      <link>https://jwvivs.github.io/John_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 29 Apr 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://jwvivs.github.io/John_Portfolio/post/project-5/</guid>
+      <description>I conducted sentiment analysis on tweets that I pulled from Twitter&amp;rsquo;s API leading up to the 2019 NFL Draft. This was intended to be a predictor tool that would allow the user to see which NFL prospect would be selected by a particular team leading up to the draft. If Twitter sentiment analysis could yield any success in predicting where a prospect may land, then it may pose as an enticing tool for team managers/owners to use in order to better prepare their draft board.</description>
+    </item>
+    
   </channel>
 </rss>
